@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+
+#esportes h2 {
+    color: green;
+}
+
+#ecnomia h2 {
+    color: red;
+}
+
+#entretenimento h2 {
+    color: yellow;
+}
+
+#tecnologia h2 {
+    color: orange;
+}
